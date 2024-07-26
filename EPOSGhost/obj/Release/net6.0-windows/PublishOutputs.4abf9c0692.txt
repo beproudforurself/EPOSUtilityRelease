@@ -1,0 +1,14 @@
+\\bosch.com\dfsrb\DfsCN\DIV\CC\Prj\Engineering_HardWare\ECU_Designer\06_A_Sample\12_Tools&Devices\EPOSUtility2.0\A_SampleFormat.json
+\\bosch.com\dfsrb\DfsCN\DIV\CC\Prj\Engineering_HardWare\ECU_Designer\06_A_Sample\12_Tools&Devices\EPOSUtility2.0\EPOSGhost.exe
+\\bosch.com\dfsrb\DfsCN\DIV\CC\Prj\Engineering_HardWare\ECU_Designer\06_A_Sample\12_Tools&Devices\EPOSUtility2.0\selenium-manager\linux\selenium-manager
+\\bosch.com\dfsrb\DfsCN\DIV\CC\Prj\Engineering_HardWare\ECU_Designer\06_A_Sample\12_Tools&Devices\EPOSUtility2.0\selenium-manager\macos\selenium-manager
+\\bosch.com\dfsrb\DfsCN\DIV\CC\Prj\Engineering_HardWare\ECU_Designer\06_A_Sample\12_Tools&Devices\EPOSUtility2.0\selenium-manager\windows\selenium-manager.exe
+\\bosch.com\dfsrb\DfsCN\DIV\CC\Prj\Engineering_HardWare\ECU_Designer\06_A_Sample\12_Tools&Devices\EPOSUtility2.0\EPOSGhost.dll
+\\bosch.com\dfsrb\DfsCN\DIV\CC\Prj\Engineering_HardWare\ECU_Designer\06_A_Sample\12_Tools&Devices\EPOSUtility2.0\EPOSGhost.deps.json
+\\bosch.com\dfsrb\DfsCN\DIV\CC\Prj\Engineering_HardWare\ECU_Designer\06_A_Sample\12_Tools&Devices\EPOSUtility2.0\EPOSGhost.runtimeconfig.json
+\\bosch.com\dfsrb\DfsCN\DIV\CC\Prj\Engineering_HardWare\ECU_Designer\06_A_Sample\12_Tools&Devices\EPOSUtility2.0\EPOSGhost.pdb
+\\bosch.com\dfsrb\DfsCN\DIV\CC\Prj\Engineering_HardWare\ECU_Designer\06_A_Sample\12_Tools&Devices\EPOSUtility2.0\Newtonsoft.Json.dll
+\\bosch.com\dfsrb\DfsCN\DIV\CC\Prj\Engineering_HardWare\ECU_Designer\06_A_Sample\12_Tools&Devices\EPOSUtility2.0\WebDriver.Support.dll
+\\bosch.com\dfsrb\DfsCN\DIV\CC\Prj\Engineering_HardWare\ECU_Designer\06_A_Sample\12_Tools&Devices\EPOSUtility2.0\WebDriver.dll
+\\bosch.com\dfsrb\DfsCN\DIV\CC\Prj\Engineering_HardWare\ECU_Designer\06_A_Sample\12_Tools&Devices\EPOSUtility2.0\SunnyUI.dll
+\\bosch.com\dfsrb\DfsCN\DIV\CC\Prj\Engineering_HardWare\ECU_Designer\06_A_Sample\12_Tools&Devices\EPOSUtility2.0\SunnyUI.Common.dll

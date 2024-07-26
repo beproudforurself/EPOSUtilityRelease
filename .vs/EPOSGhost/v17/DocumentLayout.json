@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43C87DD6-802E-4E7B-9BC8-3DD2DBCF98B7}|EPOSGhost\\EPOSGhost.csproj|C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\eposghost\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43C87DD6-802E-4E7B-9BC8-3DD2DBCF98B7}|EPOSGhost\\EPOSGhost.csproj|solutionrelative:eposghost\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C87DD6-802E-4E7B-9BC8-3DD2DBCF98B7}|EPOSGhost\\EPOSGhost.csproj|C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\eposghost\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C87DD6-802E-4E7B-9BC8-3DD2DBCF98B7}|EPOSGhost\\EPOSGhost.csproj|solutionrelative:eposghost\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C87DD6-802E-4E7B-9BC8-3DD2DBCF98B7}|EPOSGhost\\EPOSGhost.csproj|C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\eposghost\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C87DD6-802E-4E7B-9BC8-3DD2DBCF98B7}|EPOSGhost\\EPOSGhost.csproj|solutionrelative:eposghost\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C87DD6-802E-4E7B-9BC8-3DD2DBCF98B7}|EPOSGhost\\EPOSGhost.csproj|C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\eposghost\\comparelistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C87DD6-802E-4E7B-9BC8-3DD2DBCF98B7}|EPOSGhost\\EPOSGhost.csproj|solutionrelative:eposghost\\comparelistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C87DD6-802E-4E7B-9BC8-3DD2DBCF98B7}|EPOSGhost\\EPOSGhost.csproj|C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\eposghost\\eposghost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43C87DD6-802E-4E7B-9BC8-3DD2DBCF98B7}|EPOSGhost\\EPOSGhost.csproj|solutionrelative:eposghost\\eposghost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C87DD6-802E-4E7B-9BC8-3DD2DBCF98B7}|EPOSGhost\\EPOSGhost.csproj|c:\\users\\zpg1szh\\source\\repos\\eposghost\\eposghost\\eposghost.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{43C87DD6-802E-4E7B-9BC8-3DD2DBCF98B7}|EPOSGhost\\EPOSGhost.csproj|solutionrelative:eposghost\\eposghost.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C87DD6-802E-4E7B-9BC8-3DD2DBCF98B7}|EPOSGhost\\EPOSGhost.csproj|C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\eposghost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C87DD6-802E-4E7B-9BC8-3DD2DBCF98B7}|EPOSGhost\\EPOSGhost.csproj|solutionrelative:eposghost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C87DD6-802E-4E7B-9BC8-3DD2DBCF98B7}|EPOSGhost\\EPOSGhost.csproj|C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\eposghost\\readasampleformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C87DD6-802E-4E7B-9BC8-3DD2DBCF98B7}|EPOSGhost\\EPOSGhost.csproj|solutionrelative:eposghost\\readasampleformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 135,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\EPOSGhost\\Form1.cs",
+              "RelativeDocumentMoniker": "EPOSGhost\\Form1.cs",
+              "ToolTip": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\EPOSGhost\\Form1.cs",
+              "RelativeToolTip": "EPOSGhost\\Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:03:40.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\EPOSGhost\\Form1.cs",
+              "RelativeDocumentMoniker": "EPOSGhost\\Form1.cs",
+              "ToolTip": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\EPOSGhost\\Form1.cs [Design]",
+              "RelativeToolTip": "EPOSGhost\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:58:08.127Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\EPOSGhost\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "EPOSGhost\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\EPOSGhost\\Form1.Designer.cs",
+              "RelativeToolTip": "EPOSGhost\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:58:06.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EPOSGhost.csproj",
+              "DocumentMoniker": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\EPOSGhost\\EPOSGhost.csproj",
+              "RelativeDocumentMoniker": "EPOSGhost\\EPOSGhost.csproj",
+              "ToolTip": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\EPOSGhost\\EPOSGhost.csproj",
+              "RelativeToolTip": "EPOSGhost\\EPOSGhost.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T05:33:07.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompareListController.cs",
+              "DocumentMoniker": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\EPOSGhost\\CompareListController.cs",
+              "RelativeDocumentMoniker": "EPOSGhost\\CompareListController.cs",
+              "ToolTip": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\EPOSGhost\\CompareListController.cs",
+              "RelativeToolTip": "EPOSGhost\\CompareListController.cs",
+              "ViewState": "AQIAAMoBAAAAAAAAAAAuwN8BAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:30:54.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\EPOSGhost\\Program.cs",
+              "RelativeDocumentMoniker": "EPOSGhost\\Program.cs",
+              "ToolTip": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\EPOSGhost\\Program.cs",
+              "RelativeToolTip": "EPOSGhost\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:30:53.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EPOSGhost",
+              "DocumentMoniker": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\EPOSGhost\\EPOSGhost.csproj",
+              "RelativeDocumentMoniker": "EPOSGhost\\EPOSGhost.csproj",
+              "ToolTip": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\EPOSGhost\\EPOSGhost.csproj",
+              "RelativeToolTip": "EPOSGhost\\EPOSGhost.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T05:25:57.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReadAsampleFormat.cs",
+              "DocumentMoniker": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\EPOSGhost\\ReadAsampleFormat.cs",
+              "RelativeDocumentMoniker": "EPOSGhost\\ReadAsampleFormat.cs",
+              "ToolTip": "C:\\Users\\ZPG1SZH\\source\\repos\\EPOSGhost\\EPOSGhost\\ReadAsampleFormat.cs",
+              "RelativeToolTip": "EPOSGhost\\ReadAsampleFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:33:54.954Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 135,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

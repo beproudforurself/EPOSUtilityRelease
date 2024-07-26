@@ -1,0 +1,14 @@
+C:\Users\ZPG1SZH\source\repos\EPOSGhost\EPOSGhost\bin\Release\net6.0-windows\app.publish\A_SampleFormat.json
+C:\Users\ZPG1SZH\source\repos\EPOSGhost\EPOSGhost\bin\Release\net6.0-windows\app.publish\EPOSGhost.exe
+C:\Users\ZPG1SZH\source\repos\EPOSGhost\EPOSGhost\bin\Release\net6.0-windows\app.publish\selenium-manager\linux\selenium-manager
+C:\Users\ZPG1SZH\source\repos\EPOSGhost\EPOSGhost\bin\Release\net6.0-windows\app.publish\selenium-manager\macos\selenium-manager
+C:\Users\ZPG1SZH\source\repos\EPOSGhost\EPOSGhost\bin\Release\net6.0-windows\app.publish\selenium-manager\windows\selenium-manager.exe
+C:\Users\ZPG1SZH\source\repos\EPOSGhost\EPOSGhost\bin\Release\net6.0-windows\app.publish\EPOSGhost.dll
+C:\Users\ZPG1SZH\source\repos\EPOSGhost\EPOSGhost\bin\Release\net6.0-windows\app.publish\EPOSGhost.deps.json
+C:\Users\ZPG1SZH\source\repos\EPOSGhost\EPOSGhost\bin\Release\net6.0-windows\app.publish\EPOSGhost.runtimeconfig.json
+C:\Users\ZPG1SZH\source\repos\EPOSGhost\EPOSGhost\bin\Release\net6.0-windows\app.publish\EPOSGhost.pdb
+C:\Users\ZPG1SZH\source\repos\EPOSGhost\EPOSGhost\bin\Release\net6.0-windows\app.publish\Newtonsoft.Json.dll
+C:\Users\ZPG1SZH\source\repos\EPOSGhost\EPOSGhost\bin\Release\net6.0-windows\app.publish\WebDriver.Support.dll
+C:\Users\ZPG1SZH\source\repos\EPOSGhost\EPOSGhost\bin\Release\net6.0-windows\app.publish\WebDriver.dll
+C:\Users\ZPG1SZH\source\repos\EPOSGhost\EPOSGhost\bin\Release\net6.0-windows\app.publish\SunnyUI.dll
+C:\Users\ZPG1SZH\source\repos\EPOSGhost\EPOSGhost\bin\Release\net6.0-windows\app.publish\SunnyUI.Common.dll

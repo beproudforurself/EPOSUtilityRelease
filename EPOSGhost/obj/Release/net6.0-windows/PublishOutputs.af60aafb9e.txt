@@ -1,0 +1,13 @@
+T:\OneWeekPark\EPOSToolsEntity\EPOSGhost.exe
+T:\OneWeekPark\EPOSToolsEntity\selenium-manager\linux\selenium-manager
+T:\OneWeekPark\EPOSToolsEntity\selenium-manager\macos\selenium-manager
+T:\OneWeekPark\EPOSToolsEntity\selenium-manager\windows\selenium-manager.exe
+T:\OneWeekPark\EPOSToolsEntity\EPOSGhost.dll
+T:\OneWeekPark\EPOSToolsEntity\EPOSGhost.deps.json
+T:\OneWeekPark\EPOSToolsEntity\EPOSGhost.runtimeconfig.json
+T:\OneWeekPark\EPOSToolsEntity\EPOSGhost.pdb
+T:\OneWeekPark\EPOSToolsEntity\Newtonsoft.Json.dll
+T:\OneWeekPark\EPOSToolsEntity\WebDriver.Support.dll
+T:\OneWeekPark\EPOSToolsEntity\WebDriver.dll
+T:\OneWeekPark\EPOSToolsEntity\SunnyUI.dll
+T:\OneWeekPark\EPOSToolsEntity\SunnyUI.Common.dll

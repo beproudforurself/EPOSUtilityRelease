@@ -1,0 +1,113 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "Selenium.Mozilla.Firefox.Webdriver/0.6.0.1": {},
+      "Selenium.Support/4.16.2": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.16.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/WebDriver.Support.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.16.2": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.GeckoDriver/0.30.0": {},
+      "SunnyUI/3.6.7": {
+        "dependencies": {
+          "SunnyUI.Common": "3.6.7"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/SunnyUI.dll": {
+            "assemblyVersion": "3.6.7.0",
+            "fileVersion": "3.6.7.0"
+          }
+        }
+      },
+      "SunnyUI.Common/3.6.7": {
+        "runtime": {
+          "lib/net6.0/SunnyUI.Common.dll": {
+            "assemblyVersion": "3.6.7.0",
+            "fileVersion": "3.6.7.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "Selenium.Mozilla.Firefox.Webdriver/0.6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gW7ODClQCQNr146qkcTx5RiOeSsrahQ4B5nUNk3NDXVQ4T1i9yPGd66NomRcuszOCJj3XNc/0xmUz27/0xYovA==",
+      "path": "selenium.mozilla.firefox.webdriver/0.6.0.1",
+      "hashPath": "selenium.mozilla.firefox.webdriver.0.6.0.1.nupkg.sha512"
+    },
+    "Selenium.Support/4.16.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xxwbDNUFUQyD9p1qsT2mjqQPADJVXYub1Z+6lzIbqLAqzbnIovo/lBQD2te5ly7OI8HZqU0vNDbi9p2Mxtz3NA==",
+      "path": "selenium.support/4.16.2",
+      "hashPath": "selenium.support.4.16.2.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.16.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5BI/v+LpPma+o5ijzy1jDqnbYBBu99UQYPhvZkSBnXY6PoDKLP//aMiX8XODNJHHcRwGXeaxKR61ISO6ejXExA==",
+      "path": "selenium.webdriver/4.16.2",
+      "hashPath": "selenium.webdriver.4.16.2.nupkg.sha512"
+    },
+    "Selenium.WebDriver.GeckoDriver/0.30.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BgjKj2eRb8jBb2ONGcSGrmnATVJ38YjctKHM1MvFtvOu5JL0H1Hr6t6pQnVN0Xyg0++6foCoBneII+0CJgCP1A==",
+      "path": "selenium.webdriver.geckodriver/0.30.0",
+      "hashPath": "selenium.webdriver.geckodriver.0.30.0.nupkg.sha512"
+    },
+    "SunnyUI/3.6.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zteAOEtpSe8iFsCdSwSruvWogdtAwdpljN+yH/2Ix+0IvKuuLu7voZRWjwyPSCyNnfAROn6vqdk+xCsWH6qKvA==",
+      "path": "sunnyui/3.6.7",
+      "hashPath": "sunnyui.3.6.7.nupkg.sha512"
+    },
+    "SunnyUI.Common/3.6.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PKzV66CD4hxgHoWqPp4aE4FF7KlOlIC5EfFBS6iPMUqDfpUAe5/toQ+4sUeoMe4kWrzeJu5Y1SZKC1ZmrbVOPg==",
+      "path": "sunnyui.common/3.6.7",
+      "hashPath": "sunnyui.common.3.6.7.nupkg.sha512"
+    }
+  }
+}
